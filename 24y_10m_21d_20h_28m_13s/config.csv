@@ -1,0 +1,17 @@
+uid,43996300
+bit res,16-bit
+ch1,True
+ch2,True
+mic gain,15dB
+compression factor,0
+compression type,True
+en_compression,False
+sample freq,48000
+free run mode,False
+en_chirp,True
+low power mode,False
+en_gas,True
+en_humidity,True
+en_temp,True
+
+schedule number, start hour, start min,stop hour, stop min, Sun, M, T, W, Th, F, Sat
