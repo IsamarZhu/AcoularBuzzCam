@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>                                  
+<MicArray name="mic_array">                                  
+    
+
+    <pos Name="Point 1L" x="-1.902" y="-1.83" z="0"/>
+    <pos Name="Point 1R" x="-1.758" y="-1.83" z="0"/>
+    
+    <pos Name="Point 2L" x="1.758" y="-1.83" z="0"/>
+    <pos Name="Point 2R" x="1.902" y="-1.83" z="0"/>
+    
+    <pos Name="Point 3L" x="1.758" y="1.83" z="0"/>
+    <pos Name="Point 3R" x="1.902" y="1.83" z="0"/>
+
+    <pos Name="Point 4L" x="-1.902" y="1.83" z="0"/>
+    <pos Name="Point 4R" x="-1.758" y="1.83" z="0"/>
+    
+</MicArray>
