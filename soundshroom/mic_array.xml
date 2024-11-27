@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>                                  
+<MicArray name="mic_array">                                  
+    
+
+    <pos Name="MK2" x="0.0375" y="0" z="0"/>
+    <pos Name="MK1" x="0.0188" y="-0.0325" z="0"/>
+    
+    <pos Name="MK4" x="-0.0375" y="0" z="0"/>
+    <pos Name="MK3" x="-0.0188" y="-0.0325" z="0"/>
+    
+    <pos Name="MK6" x="0.01875" y="0.0325" z="0"/>
+    <pos Name="MK5" x="-0.01875" y="0.0325" z="0"/>
+
+    <pos Name="MK8" x="0" y="0" z="-0.0416"/>
+    <pos Name="MK7" x="0" y="0" z="0"/>
+
+    <pos Name="ELEC1" x="0.03" y="0" z="-0.0416"/>
+    <pos Name="ELEC2" x="-0.03" y="0" z="-0.0416"/>
+    
+</MicArray>
