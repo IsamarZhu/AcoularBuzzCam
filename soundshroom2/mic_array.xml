@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>                                  
+<MicArray name="mic_array">                                  
+    
+    <pos Name="Channel 2" x="0.0375" y="0" z="0.3464"/>
+
+    <pos Name="Channel 5" x="0.0188" y="0.0325" z="0.3464"/>
+    
+    <pos Name="Channel 7" x="0" y="0" z="0.3464"/>
+
+    <pos Name="Channel 8" x="0" y="0" z="0.3048"/>
+    
+</MicArray>
